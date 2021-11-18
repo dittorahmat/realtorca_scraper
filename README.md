@@ -1,17 +1,17 @@
-# Realtor.com Scraper
+# Realtor.ca Scraper
 
 In this sample code, we will scrape data from a Real Estate website (Realtor.com), using the hidden API.
 
 This code includes :
 
-Web Scraping
+*Web Scraping
 
-Output Data in PostgreSQL
+*Output Data in PostgreSQL
 
-Data Extraction
+*Data Extraction
 
-Web Scraping for Data Science
+*Web Scraping for Data Science
 
-Data Mining
+*Data Mining
 
-Data Scraping & Data Cleaning
+*Data Scraping & Data Cleaning
